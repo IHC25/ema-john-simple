@@ -39,6 +39,7 @@
   font-weight: 400;
   border-radius: 5px;
   border: none;
+  cursor: pointer;
 }
 .form-link {
   color: rgba(255, 153, 0, 1);
